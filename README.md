@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently studying Computer Science at Western Carolina University
+
+📫 How to reach me:
+- Twitter: https://twitter.com/sharzy720
+- Linkedin: https://www.linkedin.com/in/johnathyn-strong-010abb191/
+
+🔭 I’m currently working on:
+- Android library collection app: [Library](https://github.com/sharzy720/Library-app)
