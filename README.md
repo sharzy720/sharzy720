@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - Linkedin: https://www.linkedin.com/in/johnathyn-strong-010abb191/
 
 🔭 I’m currently working on:
-- Android library collection app: [Library](https://github.com/sharzy720/Library-app)
+- Android book collection app: [Library](https://github.com/sharzy720/Library-app)
