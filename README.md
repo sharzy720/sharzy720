@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on:
 - Android book collection app: [Library](https://github.com/sharzy720/Library-app)
-- Personal [website](https://strategydungeon.rf.gd)
+- Personal [website](http://strategydungeon.rf.gd)
