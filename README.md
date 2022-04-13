@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - Android book collection app: [Library](https://github.com/sharzy720/Library-app)
 - Personal [website](https://strategydungeon.rf.gd)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharzy720)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharzy720&layout=compact)](https://github.com/sharzy720/github-readme-stats)
