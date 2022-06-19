@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on:
 - Android book collection app: [Library](https://github.com/sharzy720/Library-app)
-- Personal [website](https://strategydungeon.rf.gd)
-- Rebuilding [personal website](https://github.com/sharzy720/personal_website2.0) using react
+- Personal [website](https://github.com/sharzy720/PortfolioWebsite)
+<!-- - Rebuilding [personal website](https://github.com/sharzy720/personal_website2.0) using react -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharzy720&layout=compact)](https://github.com/sharzy720/github-readme-stats)
