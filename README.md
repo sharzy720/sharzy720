@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently studying Computer Science at Western Carolina University
+🌱 I'm a recent graduate with a bachlors in Computer Science
 
 📫 How to reach me:
 - Twitter: https://twitter.com/sharzy720
 - Linkedin: https://www.linkedin.com/in/johnathyn-strong-010abb191/
 - Website: http://johnathynstrong.rf.gd
 
-🔭 I’m currently working on:
+<!--🔭 I’m currently working on:
 - College Capstone
 - Android book collection app: [Library](https://github.com/sharzy720/Library-app)
-- Personal [website](https://github.com/sharzy720/PortfolioWebsite)
+- Personal [website](https://github.com/sharzy720/PortfolioWebsite)-->
 <!-- - Rebuilding [personal website](https://github.com/sharzy720/personal_website2.0) using react -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharzy720&layout=compact)](https://github.com/sharzy720/github-readme-stats)
